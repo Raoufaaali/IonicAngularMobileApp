@@ -11,4 +11,8 @@ export class HomePage {
 
   }
 
+  logToConsle(): void {
+    console.log('Hello, Ionic!');
+  }
+
 }
